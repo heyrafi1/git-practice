@@ -47,8 +47,8 @@ git push
 ## Repository Structure
 
 git-practice/
-README.md
-main.cpp
+├── README.md
+└── main.cpp
 
 ## Learning Outcomes
 
