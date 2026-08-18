@@ -62,11 +62,13 @@ After completing this laboratory exercise, I was able to:
 
 ## Author
 
-## Author
-
 | Information | Details |
 |---|---|
 | Name | S. M. Rafiul Islam Arpon |
 | ID | 24-57662-2 |
 | Section | M |
 | Lab Title | Git & GitHub Practice Exercise |
+
+---
+
+This repository was created and maintained as part of the coursework to demonstrate the practical use of Git and GitHub for version control.
